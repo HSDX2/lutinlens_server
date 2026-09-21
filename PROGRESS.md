@@ -45,3 +45,8 @@ nat serve --workflow framing_advisor       # 构图建议
 - App 设置里填上三个服务地址后联调
 - 重点实测 `framing_advisor` 多图 + 严格 JSON 输出的稳定性
 - S3 图床联调
+
+## 补充文档
+
+- **WSL2 部署详细步骤**：见本仓库 `DEPLOY_WSL2.md`
+- **App 正式签名**：见 App 仓库 `SIGNING.md`
